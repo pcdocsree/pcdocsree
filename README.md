@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pcdocsree&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-4.3K-7c3aed?style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://linkedin.com/in/pcdocsree"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
