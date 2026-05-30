@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm pcdocsree
 
-<!--
-**pcdocsree/pcdocsree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Vibe Coder • Builder • Problem Solver
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working projects using modern tools, AI, and code. I focus on building practical solutions, experimenting with new technologies, and continuously learning along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+* NexozaSTAY — Hotel Management System
+* ProFixit — Service Provider Platform
+* Business Websites & Landing Pages
+
+## 🛠️ Tools & Technologies
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+* Git & GitHub
+* AI-Assisted Development
+
+## 🌱 Currently Exploring
+
+* Web Development
+* Automation
+* AI-Powered Applications
+
+## 📫 Connect
+
+* GitHub: @pcdocsree
+
+> "Build. Learn. Improve. Repeat."
